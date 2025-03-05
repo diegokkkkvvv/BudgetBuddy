@@ -2,7 +2,7 @@
 
 #### Video Demo: <https://youtu.be/yBbrnbUP5Gg>
 
-#### Team Members: Isabela Meza and Amelia Jorge
+#### Team Members: Diego Knochenhauer and Andre Ambrosi
 
 #### Description:
 BudgetBuddy is a personal expense-tracking application built using Python and Streamlit. It allows users to log daily expenses, categorize them, and visualize their spending habits over time. The project leverages CSV file storage for data persistence and provides a simple, user-friendly interface.
