@@ -1,6 +1,6 @@
 # BudgetBuddy
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/yBbrnbUP5Gg>
 
 #### Team Members: Isabela Meza and Amelia Jorge
 
