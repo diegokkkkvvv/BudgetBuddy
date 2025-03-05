@@ -12,7 +12,7 @@ BudgetBuddy is a personal expense-tracking application built using Python and St
 ```
 BUDGETBUDDY
 ├── data
-│   ├── expenses.csv        # CSV file storing logged expenses
+│   ├── expenses.csv       # CSV file storing logged expenses
 ├── project.py             # Main application logic
 ├── README.md              # Project documentation
 ├── requirements.txt       # Dependencies for running the project
@@ -85,4 +85,4 @@ BudgetBuddy provides an easy and efficient way to track personal finances with m
 
 ### Developed by: Diego Knocehnhauer & Andre Ambrosi
 
-*(Some aspects of this project were enhanced with the assistance of ChatGPT.)*
+*(CHATGPT was used as a helper tool to resolve certain design challenges and amplify aspects of this)*
